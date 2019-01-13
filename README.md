@@ -1,5 +1,5 @@
 # imapsync
-IMAPSync uses imapclient library to implement a copy / sync between IMAP accounts. I wrote it after other IMAP copy scripts couldn't handle common corner cases.
+imapsync copies / synchronises emails and folders from one IMAP account to another IMAP account. imapsync uses imapclient library to implement a copy / synchronise between IMAP accounts. I wrote it after other IMAP copy scripts couldn't handle common corner cases.
 
 imapclient does most of the heavy lifting to ensure a robust copy / sync script.
 
